@@ -3,7 +3,6 @@
 
 [![reud's github stats](https://github-readme-stats.vercel.app/api?username=reud)](https://github.com/anuraghazra/github-readme-stats)
 
-![Python](https://cdn.svgporn.com/logos/python.svg)
 
 **更新: 2020/07/18**
 
