@@ -1,5 +1,6 @@
 **Hi, there, I'm reud**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=reud)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![reud's github stats](https://github-readme-stats.vercel.app/api?username=reud)](https://github.com/anuraghazra/github-readme-stats)
 
