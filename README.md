@@ -5,6 +5,8 @@
 [![reud's github stats](https://github-readme-stats.vercel.app/api?username=reud)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![reud](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Freud)](https://atcoder.jp/users/reud)
+
 **更新: 2020/07/18**
 
 # 💻 最近よく書く言語
